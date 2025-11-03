@@ -1,0 +1,11 @@
+{
+  "onto": "1_university_ontology",
+  "type": "all_test_cases",
+  "avg_precision": "0.39",
+  "avg_recall": "0.32",
+  "avg_f1": "0.34",
+  "avg_onto_conf": "0.79",
+  "avg_sub_halluc": "0.00",
+  "avg_rel_halluc": "0.00",
+  "avg_obj_halluc": "0.09"
+}
